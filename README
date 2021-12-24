@@ -1,3 +1,8 @@
+### This is my fork of dwm
+### Added minimal patches: gaps, autostart, and restartsig 
+### dependencies: st (check my custom st too), dmenu, ttf-nerd-symbols (arch)
+
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
